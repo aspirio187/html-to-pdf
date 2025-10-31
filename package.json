@@ -1,7 +1,7 @@
 {
-  "name": "name",
-  "description": "description",
-  "authors": "author",
+  "name": "html-to-pdf",
+  "description": "A command-line tool to convert HTML files to PDF using Puppeteer and Chromium. Preserves styling, backgrounds, and formatting with customizable margins.",
+  "authors": "Soultan Hatsijev",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
